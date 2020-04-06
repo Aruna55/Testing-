@@ -5,7 +5,7 @@ int main()
 {
     int n1, n2, max;
 
-    cout << "Enter two numbers: ";
+    cout << "Enter the two numbers: ";
     cin >> n1 >> n2;
     
     // maximum value between n1 and n2 is stored in max
